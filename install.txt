@@ -1,0 +1,4 @@
+requirements:
+python 2.7
+tkinter
+linux based system : ubuntu, MacOS, mint Linux, fedora etc
