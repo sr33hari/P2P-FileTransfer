@@ -11,7 +11,7 @@ There are certain precautions that need to be taken for the file sharing to work
 - to make sure it doesnt hang, kindly avoid using port 7894 for the chat room and use only port number 7894 in the file sharing client.
 
 
-![MainUI](/UI1.png)
+![MainUI](/UI1.PNG)
 
 This is the main screen that will enable users to chat with each other.
 
