@@ -13,3 +13,15 @@ There are certain precautions that need to be taken for the file sharing to work
 - the port number used for file sharing shouldn't be the same as the one set in the chat room
 - the files when being fetched in the file sharing client need to be clicked on and selected properly.
 - to make sure it doesnt hang, kindly avoid using port 7894 for the chat room and use only port number 7894 in the file sharing client.
+
+
+![MainUI](/UI1.png)
+
+This is the main screen that will enable users to chat with each other.
+
+![Start](/gui2.png)
+
+This will enable users to connect on a fixed port to enable file transfer.
+
+
+![Transferfiles](/guifiletransfer.png)
