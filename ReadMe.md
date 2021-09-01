@@ -19,5 +19,6 @@ This is the main screen that will enable users to chat with each other.
 
 This will enable users to connect on a fixed port to enable file transfer.
 
-
 ![Transferfiles](/guifiletransfer.png)
+
+The files can be uploaded and fetched by the other users who are connected
